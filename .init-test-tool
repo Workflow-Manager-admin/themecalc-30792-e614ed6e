@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/themecalc-30792-e614ed6e/theme_calc"
+}
